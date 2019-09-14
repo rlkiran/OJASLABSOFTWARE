@@ -1,0 +1,3 @@
+pip install firebase-admin google-cloud-firestore
+get json from firebase console
+pip install pyqt5 and tools
